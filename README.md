@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/陈帅-PaperPlane-2b6cb0?style=for-the-badge&logo=github&logoColor=white" alt="陈帅的GitHub" width="300"/>
   
   <h1>👋 前端开发工程师 | 拒绝标签化的技术玩家</h1>
-  <h2>从今天开始我要学会生活，学会成长，向上生长</h2>
+  <h2>（2025/04/20）从今天开始我要学会生活，学会成长，向上生长</h2>
 </div>
 
 - ✨ 前端开发的菜鸟，但是立志成为前端开发的牛人<br>
